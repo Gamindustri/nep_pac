@@ -1,0 +1,9 @@
+GAME*/
+MOVIE*/
+NRB1DLC*/
+SYSTEM*/
+SOUND*/
+
+*.exe
+*.pac
+*.o
